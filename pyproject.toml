@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "topologial-signal-processing"
+version = "0.1.0"
+description = "Slides for topological signal processing for predictive maintenace talks"
+authors = ["nzm2hycon19 <nz@m2hycon.de>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
